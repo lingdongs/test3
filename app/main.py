@@ -11,7 +11,7 @@ from vertex_ai_init import init_vertex_ai
 from routes import models_api
 from routes import chat_api
 
-app = FastAPI(title="OpenAI to Gemini Adapter")
+app = FastAPI(title="tets123")
 
 app.add_middleware(
     CORSMiddleware,
