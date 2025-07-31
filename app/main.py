@@ -59,5 +59,5 @@ async def startup_event():
 async def root():
     return {
         "status": "ok",
-        "message": "OpenAI to Gemini Adapter is running."
+        "message": "test3 run."
     }
